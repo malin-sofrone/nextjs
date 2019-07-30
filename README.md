@@ -1,6 +1,6 @@
 # Next.js
 
-In this example we will be deploying a simple "Hello World" example with Next.js.
+In this example we will be deploying a simple "Hello World" example with Next.js. Voila!
 
 ### Getting started with Next.js
 
